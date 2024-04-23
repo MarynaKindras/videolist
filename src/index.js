@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Provider store={store}>
     <React.StrictMode>
-      <BrowserRouter basename="/camper-rent-app">
+      <BrowserRouter basename="/videolist">
         <App />
       </BrowserRouter>
     </React.StrictMode>

@@ -8,7 +8,6 @@ const CatalogPage = lazy(() => import('../pages/CatalogPage/CatalogPage'));
 const FavoritesPage = lazy(() => import('../pages/FavoritesPage/FavoritesPage'));
 const PageNotFound = lazy(() => import('../pages/PageNotFound/PageNotFound'));
 
-// export const App = () => {
 function App() {
   return (
     <ContainerApp>
