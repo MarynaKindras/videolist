@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvideolist=self.webpackChunkvideolist||[]).push([[436],{436:(e,s,i)=>{i.r(s),i.d(s,{default:()=>t});var l=i(579);const t=()=>(0,l.jsx)("h1",{children:"Like"})}}]);
+//# sourceMappingURL=436.a09a7e98.chunk.js.map
